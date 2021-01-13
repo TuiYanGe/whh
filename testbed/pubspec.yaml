@@ -18,7 +18,7 @@ dependencies:
     path: ../plugins/menubar
   window_size:
     path: ../plugins/window_size
-
+  get:
 dev_dependencies:
   flutter_test:
     sdk: flutter
